@@ -1,0 +1,17 @@
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\plugin.json
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\AddRateByWeightPopup.cshtml
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\Configure.cshtml
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\EditRateByWeightPopup.cshtml
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ByWeight.cshtml
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_CreateOrUpdateRateByWeight.cshtml
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_FixedRate.cshtml
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ViewImports.cshtml
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\logo.jpg
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll
+D:\Projetos\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.pdb
+D:\Projetos\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.csproj.CoreCompileInputs.cache
+D:\Projetos\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.AssemblyInfoInputs.cache
+D:\Projetos\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.AssemblyInfo.cs
+D:\Projetos\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.csproj.CopyComplete
+D:\Projetos\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.dll
+D:\Projetos\nopCommerce\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.pdb

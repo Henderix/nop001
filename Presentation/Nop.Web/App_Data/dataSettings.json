@@ -1,0 +1,5 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=HCB-PC\\SQLEXPRESS;Initial Catalog=Nop03DB;Integrated Security=True;Persist Security Info=False",
+  "RawDataSettings": {}
+}
